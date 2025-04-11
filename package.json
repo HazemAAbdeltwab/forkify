@@ -11,7 +11,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Hazem Ahmed",
+  "author": "Jonas Schedtmann",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.2.1",

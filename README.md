@@ -14,7 +14,7 @@
 
 ## 🚀 Demo
 
-🔗 [Live Demo Here](https://forkify-fe.netlify.app/) (Add your deployed link here if available)
+🔗 [Live Demo Here](https://hazemaabdel.twab/forkify/) (Add your deployed link here if available)
 
 ---
 
