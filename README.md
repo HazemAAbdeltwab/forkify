@@ -6,19 +6,31 @@
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </h1>
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Demo](#Demo)
+- [Screenshots](#Screenshots)
+- [Technologies](#TechStack)
+- [Features](#Features)
+- [Folder_Structure](#Folder_Structure)
+- [Usage](#Usage)
+
+## Overview
+
 <p align="center">
   A sleek recipe search application built using modern JavaScript and Webpack, allowing users to find, view, and bookmark recipes in real-time. 🔎🍳
 </p>
 
 ---
 
-## 🚀 Demo
+## Demo 🚀
 
 🔗 [Live Forkify Demo Here](https://forkify-fe.netlify.app/) (deployed link here)
 
 ---
 
-## 📸 Screenshots
+## Screenshots 📸
 
 | Home Page                       | Recipe View                         | Bookmarks                                 |
 | ------------------------------- | ----------------------------------- | ----------------------------------------- |
@@ -26,16 +38,17 @@
 
 ---
 
-## 🧰 Tech Stack
+## TechStack 🧰
 
 - **Vanilla JavaScript (ES6+)**
 - **HTML5 / SCSS**
-- **Webpack (Bundling)**
+- **Parcel (Bundling)**
 - **Forkify API (from Jonas Schmedtmann’s course)**
+- **Netlify (Deployment and hosting)**
 
 ---
 
-## ✨ Features
+## Features ✨
 
 ✅ Search for recipes  
 ✅ View detailed cooking instructions  
@@ -45,7 +58,7 @@
 
 ---
 
-## 📂 Folder Structure
+## Folder_Structure 📂
 
 ```bash
 forkify/
@@ -64,3 +77,34 @@ forkify/
 ├── webpack.config.js
 └── README.md
 ```
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/HazemAAbdeltwab/forkify.git
+   ```
+
+2. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+4. Build the project for production:
+   ```bash
+   npm run build
+   ```
+
+---
+
+#### Powered by **Parcel** and **Sass**!
+
+- Hosted on **Netlify**.
